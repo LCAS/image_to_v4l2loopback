@@ -2,8 +2,8 @@
 Changelog for package image_to_v4l2loopback
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2020-04-02)
+------------------
 * new maintainer and install targets
 * roslint in travis
 * Update README.md
