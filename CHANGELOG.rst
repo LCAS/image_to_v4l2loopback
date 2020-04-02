@@ -2,8 +2,8 @@
 Changelog for package image_to_v4l2loopback
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2020-04-02)
+------------------
 * TRAGETS
 * Contributors: Marc Hanheide
 
