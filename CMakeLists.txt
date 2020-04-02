@@ -65,7 +65,7 @@ target_link_libraries(stream
 #############
 ## Install ##
 #############
-install(PROGRAMS
+install(TARGETS
   stream
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
