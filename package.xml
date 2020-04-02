@@ -4,7 +4,8 @@
   <version>0.1.0</version>
   <description>Publish ros images into a virtual v4l2 video device</description>
 
-  <maintainer email="wsacul@gmail.com">Lucas Walter</maintainer>
+  <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
+  <author email="wsacul@gmail.com">Lucas Walter</author>
   <license>BSD</license>
   <url type="website">https://github.com/lucasw/image_to_v4l2loopback</url>
 
